@@ -35,7 +35,7 @@ jobs:
           pip install pytest flake8
 
       - name: Run lint check
-        run: flake8 app test_main.py --max-line-length=100
-
+        run: flake8 app tests --max-line-length=100
+        
       - name: Run tests
-        run: pytest -v
+        run: pytest -v tests
