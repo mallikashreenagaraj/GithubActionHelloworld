@@ -18,3 +18,4 @@ This repository contains a simple GitHub Actions workflow that prints **Hello Wo
 
 Test Checks and Unit Testing
 
+Test 2
