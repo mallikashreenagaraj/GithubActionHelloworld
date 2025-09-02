@@ -15,5 +15,4 @@ This repository contains a simple GitHub Actions workflow that prints **Hello Wo
 4. Open the logs → You should see:
    # testing workflow trigger
 
-
-Test Checks and Unit Testing
+Test 2
